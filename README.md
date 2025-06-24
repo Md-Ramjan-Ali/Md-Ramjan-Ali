@@ -127,9 +127,9 @@ const currentGoals = {
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook-profile" height="30" width="40" />
 </a>
 
-<!-- Gmail (using Gmail icon) -->
+<!-- Gmail (classic envelope icon) -->
 <a href="mailto:mrramjankhan99@gmail.com" target="_blank">
-  <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google-icon.svg" alt="gmail" height="30" width="40" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmail" height="30" width="40" />
 </a>
 
 <!-- Your LinkedIn link -->
