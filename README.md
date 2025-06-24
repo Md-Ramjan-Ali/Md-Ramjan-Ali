@@ -122,26 +122,13 @@ const currentGoals = {
 ## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="35"> Connect With Me
 
 <div>
-<!-- Facebook -->
-<a href="https://www.facebook.com/gm.romjan.50" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook-profile" height="30" width="40" />
-</a>
 
-<!-- Gmail (classic envelope icon) -->
-<a href="mailto:mrramjankhan99@gmail.com" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmail" height="30" width="40" />
-</a>
 
-<!-- Your LinkedIn link -->
-<a href="www.linkedin.com/in/md-ramjan-ali-1bb369324" target="_blank">
-  <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaber-ahmed-7175a11b0" height="30" width="40" />
-</a>
-
-  <!--
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/md-ramjan-ali-1bb369324)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gm.romjan.50)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrramjankhan99@gmail.com)
--->
+
 </div>
 
 <div align="center">
