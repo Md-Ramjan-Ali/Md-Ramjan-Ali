@@ -5,7 +5,10 @@
 
 <!-- Typing animation header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Ramjan;Full+Stack+Web+Developer;MERN+Stack+Specialist;Clean+Code+%7C+Beautiful+UI+%7C+Secure+Backend" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Ramjan;Full+Stack+Web+Developer;Clean+Code+%7C+Beautiful+UI+%7C+Secure+Backend" alt="Typing SVG" />
+</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=450&lines=Full+Stack+Web+Developer;Clean+Code+%7C+Beautiful+UI+%7C+Secure+Backend" alt="Typing SVG" />
 </h1>
 
 <!-- Social Media Links -->
