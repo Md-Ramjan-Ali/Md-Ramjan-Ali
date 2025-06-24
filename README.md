@@ -1,18 +1,19 @@
 <div align="center">
   <table>
     <tr>
-      <!-- Left Side: Your Image -->
-      <td align="center" style="padding-right: 20px;">
-        <img src="https://i.ibb.co/ZYW3VTp/brown-brim.png" alt="Your Photo" width="200" style="border-radius: 20px;" />
+      <!-- Left Side: Your Profile Image -->
+      <td align="center" style="padding-right: 30px;">
+        <img src="https://i.ibb.co/YjGDJwY/ramjan-profile.jpg" alt="MD RAMJAN ALI" width="200" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
       </td>
 
-      <!-- Right Side: Header Banner -->
+      <!-- Right Side: Animated Header Banner -->
       <td>
         <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,100:F6D5F7&height=300&section=header&text=MD%20RAMJAN%20ALI&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=60&descAlign=60"/>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 
