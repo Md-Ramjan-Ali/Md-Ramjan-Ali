@@ -1,4 +1,14 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,100:F6D5F7&height=200&section=header&text=HRIDAY%20SONAR&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20MERN%20Stack%20Enthusiast&descAlignY=51&descAlign=62"/>
+</div>
 
+<!-- Typing animation header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Ramjan" alt="Typing SVG" />
+</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=450&lines=Full+Stack+Web+Developer;Clean+Code+%7C+Beautiful+UI+%7C+Secure+Backend" alt="Typing SVG" />
+</h1>
 
 
 
