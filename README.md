@@ -20,16 +20,16 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> About Me
 
-const hriday = {
-    name: "Hriday Sonar",
-    role: "Frontend Developer",
-    location: "Bangladesh 🇧🇩",
-    currentlyWorking: "MERN Stack Projects",
-    currentlyLearning: ["Advanced React", "Next.js", "TypeScript"],
-    askMeAbout: ["React", "Node.js", "MongoDB", "JavaScript"],
-    email: "mdhridaysonar@gmail.com",
-    portfolio: "https://phenomenal-cuchufli-fef911.netlify.app/",
-    funFact: "I love building interactive web applications! 🚀"
+const ramjan = {
+  name: "Md Ramjan",
+  role: "Full Stack Web Developer",
+  location: "Bangladesh 🇧🇩",
+  currentlyWorking: "Freelance and Volunteer Projects",
+  currentlyLearning: ["Next.js", "TypeScript", "System Design"],
+  askMeAbout: ["React", "Node.js", "MongoDB", "Tailwind CSS", "Firebase"],
+  email: "mdramjan.dev@gmail.com",
+  portfolio: "https://mdramjan-portfolio.netlify.app/",
+  funFact: "I love building real-world apps that solve real-world problems. 🚀"
 };
 
 <div align="center">
