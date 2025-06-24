@@ -40,10 +40,11 @@ const ramjan = {
 };
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hridaysonar&style=for-the-badge&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/hridaysonar?style=for-the-badge&color=blue&labelColor=black" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-blue?style=for-the-badge" alt="Focus" />
+  <img src="https://komarev.com/ghpvc/?username=Md-Ramjan-Ali&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Md-Ramjan-Ali?style=for-the-badge&color=blue&labelColor=black" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge" alt="Focus" />
 </div>
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35"> Tech Stack
 
