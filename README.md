@@ -78,9 +78,10 @@ const ramjan = {
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="35"> GitHub Stats
 
 <div align="center">
-  <img width="49.5%" hight="400px" src="https://github-readme-stats.vercel.app/api?username=Md-Ramjan-Ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49.5%" hight="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Ramjan-Ali&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  <img width="49.5%" style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=Md-Ramjan-Ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49.5%" style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Ramjan-Ali&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Ramjan-Ali&theme=tokyonight&hide_border=true" width="100%" />
