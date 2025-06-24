@@ -9,8 +9,8 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Ramjan" alt="Typing SVG" />
-    <p>🚀 A passionate full-stack web developer from Bangladesh</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Ramjan+Ali" alt="Typing SVG" />
+    <p> A passionate full-stack web developer from Bangladesh</p>
 </h1>
 
 
@@ -44,7 +44,7 @@ const ramjan = {
 </div>
 
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35"> Tech Stack
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35"> Tech Stack:
 
 <div align="center">
 
