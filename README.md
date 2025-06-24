@@ -24,17 +24,13 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> About Me
 
+```js
 const ramjan = {
-  name: "Md Ramjan",
-  role: "Full Stack Web Developer",
-  location: "Bangladesh 🇧🇩",
-  currentlyWorking: "Freelance and Volunteer Projects",
-  currentlyLearning: ["Next.js", "TypeScript", "System Design"],
-  askMeAbout: ["React", "Node.js", "MongoDB", "Tailwind CSS", "Firebase"],
-  email: "mdramjan.dev@gmail.com",
-  portfolio: "https://mdramjan-portfolio.netlify.app/",
-  funFact: "I love building real-world apps that solve real-world problems. 🚀"
+  role: "Web Developer & Ethical Hacker",
+  skills: ["HTML5", "CSS3", "Tailwind CSS", "JavaScript", "React.js", "Node.js", "Express.js", "MongoDB"],
+  passion: "Learning new technologies and improving every day"
 };
+
 
 
 <div align="center">
