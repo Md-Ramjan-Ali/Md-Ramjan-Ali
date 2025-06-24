@@ -103,7 +103,7 @@ const ramjan = {
 const currentGoals = {
   " building": "Modern MERN Stack Applications",
   " learning": "Advanced React & Next.js Concepts",
-  " mastering": "Frontend Development Best Practices",
+  " mastering": "Full Stack Web Development Best Practices",
   " exploring": "Latest Web Technologies",
   " focus": "Creating User-Friendly Interfaces"
 };
