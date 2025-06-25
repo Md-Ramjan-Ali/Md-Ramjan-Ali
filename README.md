@@ -89,6 +89,14 @@ const Ramjan_Ali = {
    <img width="100%" style="height: 200px;" src="https://nirzak-streak-stats.vercel.app/?user=Md-Ramjan-Ali&theme=dark&hide_border=false" />
 </div>
 
+## Github Trophy:
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    
+   <img src="https://github-profile-trophy.vercel.app/?username=Md-Ramjan-Ali&margin-w=20&margin-h=20" alt="Md-Ramjan-Ali" />
+  </a>
+</p>
+
 ## Current Focus:
 
 <div align="center">
