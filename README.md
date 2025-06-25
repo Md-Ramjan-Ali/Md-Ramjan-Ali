@@ -17,13 +17,8 @@
 
 ## About Me:
 
-Hi! I'm Md.Ramjan Ali.I'm a Full Stack Web Developer with a strong foundation in both frontend and backend technologies. My skill set includes HTML5, CSS3, Tailwind CSS, Bootstrap, DaisyUI, JavaScript, React.js, Node.js, Express.js, and MongoDB.
-
-I'm deeply passionate about building real-world applications and continuously learning new technologies. I believe in improving every single day through hands-on experience and challenging projects.
-
-
 ```js
-const ramjan = {
+const Ramjan_Ali = {
   Role: "Full Stack Web Developer",
   Skills: ["HTML5", "CSS3", "Tailwind CSS", "Bootstrap","DaisyUI", "JavaScript", "React.js",
            "Node.js", "Express.js", "MongoDB"],
