@@ -15,7 +15,7 @@
  <img align="center" src="https://qph.cf2.quoracdn.net/main-qimg-cb0d139e178018df8b3e778369395ac7" alt="Md Ramjan Ali - Full Stack Web Developer"/>
 </div>
 
-## About Me
+## About Me:
 
 ```js
 const ramjan = {
@@ -75,7 +75,7 @@ const ramjan = {
 
 </div>
 
-## GitHub Stats
+## GitHub Stats:
 
 <div align="center">
   <img width="49.5%" style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=Md-Ramjan-Ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -86,19 +86,19 @@ const ramjan = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Ramjan-Ali&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
-## GitHub Trophies
+## GitHub Trophies:
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Md-Ramjan-Ali&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
 </div>
 
-## Current Focus
+## Current Focus:
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 </div>
 
-## Current Goals
+## Current Goals:
 ```js
 const currentGoals = {
   " building": "Modern MERN Stack Applications",
@@ -109,12 +109,12 @@ const currentGoals = {
 };
 ```
 
-## Featured Projects
+## Featured Projects:
 -  **Event Explorer** — Local event discovery app built with React, Firebase, MongoDB  
 -  **Volunteer Hub** — A platform for organizations to post volunteer needs and users to join  
 -  **TaskLancer** — Freelance task marketplace with bidding system
 
-## Connect With Me
+## Connect With Me:
 
 <div>
   
