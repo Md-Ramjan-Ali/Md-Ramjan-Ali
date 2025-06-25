@@ -85,7 +85,7 @@ const Ramjan_Ali = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Ramjan-Ali&theme=tokyonight&hide_border=true" width="100%" />
+![](https://nirzak-streak-stats.vercel.app/?user=Md-Ramjan-Ali&theme=dark&hide_border=false)<br/>
 </div>
 
 ## GitHub Trophies:
