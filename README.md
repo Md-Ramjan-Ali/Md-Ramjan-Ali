@@ -84,9 +84,9 @@ const Ramjan_Ali = {
   <img width="49.5%" style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Ramjan-Ali&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 </div>
 
-
+<div align="center">
 ![](https://nirzak-streak-stats.vercel.app/?user=Md-Ramjan-Ali&theme=dark&hide_border=false)
-
+</div>
 
 ## GitHub Trophies:
 
