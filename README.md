@@ -24,9 +24,10 @@ I'm deeply passionate about building real-world applications and continuously le
 
 ```js
 const ramjan = {
-  role: "Full Stack Web Developer",
-  skills: ["HTML5", "CSS3", "Tailwind CSS", "Bootstrap","DaisyUI", "JavaScript", "React.js", "Node.js", "Express.js", "MongoDB"],
-  passion: "Learning new technologies and improving every day"
+  Role: "Full Stack Web Developer",
+  Skills: ["HTML5", "CSS3", "Tailwind CSS", "Bootstrap","DaisyUI", "JavaScript", "React.js",
+           "Node.js", "Express.js", "MongoDB"],
+  Passion: "Learning new technologies and improving every day"
 }
 ```
 
