@@ -21,7 +21,7 @@ Hi! I'm Md.Ramjan Ali.I'm a Full Stack Web Developer with a strong foundation in
 
 I'm deeply passionate about building real-world applications and continuously learning new technologies. I believe in improving every single day through hands-on experience and challenging projects.
 
-<!--
+
 ```js
 const ramjan = {
   role: "Full Stack Web Developer",
@@ -29,7 +29,7 @@ const ramjan = {
   passion: "Learning new technologies and improving every day"
 }
 ```
--->
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Md-Ramjan-Ali&style=for-the-badge&color=blue" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Md-Ramjan-Ali?style=for-the-badge&color=blue&labelColor=black" alt="Followers" />
