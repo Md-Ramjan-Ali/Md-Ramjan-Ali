@@ -94,6 +94,11 @@ const Ramjan_Ali = {
   <img src="https://github-profile-trophy.vercel.app/?username=Md-Ramjan-Ali&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
 </div>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Md-Ramjan-Ali&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Md-Ramjan-Ali&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Ramjan-Ali&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ## Current Focus:
 
 <div align="center">
