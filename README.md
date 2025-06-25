@@ -115,9 +115,10 @@ const currentGoals = {
 ```
 
 ## Featured Projects:
--  **Event Explorer** — Local event discovery app built with React, Firebase, MongoDB  
--  **Volunteer Hub** — A platform for organizations to post volunteer needs and users to join  
--  **TaskLancer** — Freelance task marketplace with bidding system
+
+-  **SebaConnect** — A platform for organizations to post volunteer needs and users to join  
+-  **JobPond** — Freelance task marketplace with bidding system
+-  **Eventora** — Local event discovery app built with React, Firebase  
 
 ## Connect With Me:
 
