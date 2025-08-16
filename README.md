@@ -17,11 +17,28 @@
 
 ## About Me:
 
-<h3>const Ramjan_Ali = {</h3>
-<p><b>Role:</b> Full Stack Web Developer</p>
-<p><b>Skills:</b> HTML5, CSS3, Tailwind CSS, Bootstrap, DaisyUI, JavaScript, React.js, TypeScript, Next.js, Redux, Node.js, Express.js, MongoDB</p>
-<p><b>Passion:</b> Learning new technologies and improving every day</p>
-<h3>}</h3>
+```js
+const Ramjan_Ali = {
+  Role: "Full Stack Web Developer",
+  Skills: [
+    "HTML5", "CSS3", "Tailwind CSS", "Bootstrap", "DaisyUI",
+    "JavaScript", "TypeScript", "React.js", "Next.js", "Redux",
+    "Node.js", "Express.js", "MongoDB", "Firebase", "JWT", "REST API"
+  ],
+  Tools: ["Git", "GitHub", "VS Code", "Postman", "Figma"],
+  Passion: [
+    "Building scalable and user-friendly web applications",
+    "Exploring new frameworks and modern technologies",
+    "Contributing to open-source projects",
+    "Writing clean, maintainable, and well-documented code"
+  ],
+  Currently: {
+    Exploring: "Advanced Next.js & TypeScript features",
+    WorkingOn: "A Product Hunt-style MERN project with Stripe integration",
+    Goal: "Becoming a highly skilled MERN/Full Stack developer"
+  }
+}
+```
 
 
 <div align="center">
