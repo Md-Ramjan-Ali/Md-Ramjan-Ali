@@ -20,8 +20,8 @@
 ```js
 const Ramjan_Ali = {
   Role: "Full Stack Web Developer",
-  Skills: ["HTML5", "CSS3", "Tailwind CSS", "Bootstrap","DaisyUI", "JavaScript", "React.js", "Typescript", "Next.js", "Redux",
-           "Node.js", "Express.js", "MongoDB"],
+  Skills: ["HTML5", "CSS3", "Tailwind CSS", "Bootstrap","DaisyUI", "JavaScript", "React.js", "Typescript",
+            "Next.js", "Redux", "Node.js", "Express.js", "MongoDB"],
   Passion: "Learning new technologies and improving every day"
 }
 ```
