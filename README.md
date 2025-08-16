@@ -18,12 +18,11 @@
 ## About Me:
 
 ```js
-const Ramjan_Ali = {
-  Role: "Full Stack Web Developer",
-  Skills: ["HTML5", "CSS3", "Tailwind CSS", "Bootstrap","DaisyUI", "JavaScript", "React.js", "Typescript",
-            "Next.js", "Redux", "Node.js", "Express.js", "MongoDB"],
-  Passion: "Learning new technologies and improving every day"
-}
+<h3>const Ramjan_Ali = {</h3>
+<p><b>Role:</b> Full Stack Web Developer</p>
+<p><b>Skills:</b> HTML5, CSS3, Tailwind CSS, Bootstrap, DaisyUI, JavaScript, React.js, TypeScript, Next.js, Redux, Node.js, Express.js, MongoDB</p>
+<p><b>Passion:</b> Learning new technologies and improving every day</p>
+<h3>}</h3>
 ```
 
 <div align="center">
