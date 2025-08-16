@@ -17,13 +17,12 @@
 
 ## About Me:
 
-```js
 <h3>const Ramjan_Ali = {</h3>
 <p><b>Role:</b> Full Stack Web Developer</p>
 <p><b>Skills:</b> HTML5, CSS3, Tailwind CSS, Bootstrap, DaisyUI, JavaScript, React.js, TypeScript, Next.js, Redux, Node.js, Express.js, MongoDB</p>
 <p><b>Passion:</b> Learning new technologies and improving every day</p>
 <h3>}</h3>
-```
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Md-Ramjan-Ali&style=for-the-badge&color=blue" alt="Profile Views" />
