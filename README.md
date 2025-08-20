@@ -131,8 +131,12 @@ const currentGoals = {
 
 ## Featured Projects:
 
--  **SebaConnect** — A platform for organizations to post volunteer needs and users to join  
--  **JobPond** — Freelance task marketplace with bidding system
+-  **TechLooma** — A full-stack MERN platform where users can launch tech products, upvote/downvote, write reviews, and subscribe
+for premium features.  
+-  **SebaConnect** — A full-stack web app to simplify volunteer management. Admins can post volunteer needs, and users can explore
+and join events with seamless authentication and real-time updates.
+-  **JobPond** — A full-stack freelance task marketplace where clients can post jobs and freelancers can bid based on budget and
+timeline. It features a clean UI, real-time updates, and secure role-based access.
 -  **Eventora** — Local event discovery app built with React, Firebase  
 
 ## Connect With Me:
