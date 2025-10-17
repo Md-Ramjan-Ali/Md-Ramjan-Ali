@@ -47,7 +47,7 @@ const Ramjan_Ali = {
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge" alt="Focus" />
 </div>
 
-## Tech Stack:
+## Programming Language:
 
 <div align="center">
   
