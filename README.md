@@ -6,7 +6,7 @@
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Ramjan+Ali" alt="Typing SVG" />
-    <p> A passionate full-stack web developer from Bangladesh</p>
+    <p> A passionate full-stack web developer</p>
 </h1>
 
 <br/>
