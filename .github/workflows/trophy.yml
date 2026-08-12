@@ -19,11 +19,11 @@ jobs:
       - name: Create assets folder
         run: mkdir -p assets
 
-      - name: Generate GitHub Trophy
+      - name: Generate Trophy
         uses: ryo-ma/github-profile-trophy@master
         with:
           username: Md-Ramjan-Ali
-          output_path: ./assets/trophy.svg
+          output_path: assets/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: tokyonight
 
