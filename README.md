@@ -98,34 +98,13 @@ Skills: [
 
 ## GitHub Stats:
 
-<div align="center">
+<p align="center">
+  <img width="48%" height="200" src="https://github-stats-extended.vercel.app/api?username=Md-Ramjan-Ali&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /><img width="48%" height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Md-Ramjan-Ali&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+</p>
 
-  <img
-    width="49.5%"
-    style="height: 200px;"
-    src="https://github-stats-extended.vercel.app/api?username=Md-Ramjan-Ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="GitHub Stats"
-  />
-
-  <img
-    width="49.5%"
-    style="height: 200px;"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Md-Ramjan-Ali&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"
-    alt="Top Languages"
-  />
-
-</div>
-
-<div align="center">
-
-  <img
-    width="100%"
-    style="height: 200px;"
-    src="https://nirzak-streak-stats.vercel.app/?user=Md-Ramjan-Ali&theme=dark&hide_border=false"
-    alt="GitHub Streak"
-  />
-
-</div>
+<p align="center">
+  <img width="98%" height="200" src="https://streak-stats.demolab.com?user=Md-Ramjan-Ali&theme=tokyonight&hide_border=true&card_width=900&card_height=200" alt="GitHub Streak" />
+</p>
 
 ## Github Trophy:
 <p align="center">
