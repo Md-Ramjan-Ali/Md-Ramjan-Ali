@@ -1,0 +1,36 @@
+name: Update GitHub Trophy
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 4 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate-trophy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create assets folder
+        run: mkdir -p assets
+
+      - name: Generate GitHub Trophy
+        uses: ryo-ma/github-profile-trophy@master
+        with:
+          username: Md-Ramjan-Ali
+          output_path: ./assets/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: tokyonight
+
+      - name: Commit Trophy
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/trophy.svg
+          git commit -m "Update GitHub trophy" || exit 0
+          git push
