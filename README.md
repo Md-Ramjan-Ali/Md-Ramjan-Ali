@@ -103,7 +103,7 @@ Skills: [
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Md-Ramjan-Ali&theme=tokyonight" alt="GitHub Streak" />
+  <img width="98%" height="200" src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
 
 ## Current Focus:
