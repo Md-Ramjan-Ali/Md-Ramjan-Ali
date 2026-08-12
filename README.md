@@ -109,12 +109,11 @@ Skills: [
 ## Github Trophy:
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy-fork-two.vercel.app/?username=Md-Ramjan-Ali&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"
-      alt="Md-Ramjan-Ali GitHub Trophy"
-    />
-  </a>
+  <img
+    src="./assets/trophy.svg"
+    alt="Md-Ramjan-Ali GitHub Trophy"
+    width="100%"
+  />
 </p>
 
 ## Current Focus:
