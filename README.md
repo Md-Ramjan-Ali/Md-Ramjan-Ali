@@ -50,7 +50,7 @@ Skills: [
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge" alt="Focus" />
 </div>
 
-## Programming Language:
+## Tech Stack & Tools
 
 <div align="center">
   
