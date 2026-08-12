@@ -101,15 +101,28 @@ Skills: [
 <div align="center">
 
   <img
-    width="49%"
-    src="https://github-stats-extended.vercel.app/api?username=Md-Ramjan-Ali&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Ramjan Ali GitHub Stats"
+    width="49.5%"
+    style="height: 200px;"
+    src="https://github-stats-extended.vercel.app/api?username=Md-Ramjan-Ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="GitHub Stats"
   />
 
   <img
-    width="49%"
+    width="49.5%"
+    style="height: 200px;"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=Md-Ramjan-Ali&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"
-    alt="Ramjan Ali Top Languages"
+    alt="Top Languages"
+  />
+
+</div>
+
+<div align="center">
+
+  <img
+    width="100%"
+    style="height: 200px;"
+    src="https://nirzak-streak-stats.vercel.app/?user=Md-Ramjan-Ali&theme=dark&hide_border=false"
+    alt="GitHub Streak"
   />
 
 </div>
