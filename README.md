@@ -103,15 +103,7 @@ Skills: [
 </p>
 
 <p align="center">
-  <img width="98%" height="200" src="https://streak-stats.demolab.com?user=Md-Ramjan-Ali&theme=tokyonight&hide_border=true&card_width=900&card_height=200" alt="GitHub Streak" />
-</p>
-
-## Github Trophy:
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    
-   <img src="https://github-profile-trophy.vercel.app/?username=Md-Ramjan-Ali&margin-w=20&margin-h=20" alt="Md-Ramjan-Ali" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Md-Ramjan-Ali&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ## Current Focus:
